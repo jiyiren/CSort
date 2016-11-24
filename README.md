@@ -1,4 +1,5 @@
 # CSort
+详情请查看这篇：[http://jiyiren.github.io/2016/11/24/csort/](http://jiyiren.github.io/2016/11/24/csort/)
 > C 语言实现的排序算法
 
 * 快速排序(Fast Sort)
