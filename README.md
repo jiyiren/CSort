@@ -1,5 +1,8 @@
 # CSort
-详情请查看这篇：[http://jiyiren.github.io/2016/11/24/csort/](http://jiyiren.github.io/2016/11/24/csort/)
+**详情请查看这篇**：[http://jiyiren.github.io/2016/11/24/csort/](http://jiyiren.github.io/2016/11/24/csort/)
+
+**Android图形化排序**:[https://github.com/jiyiren/JYSort](https://github.com/jiyiren/JYSort)
+
 > C 语言实现的排序算法
 
 * 快速排序(Fast Sort)
