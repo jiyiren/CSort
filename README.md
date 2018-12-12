@@ -15,7 +15,7 @@
 
 ## 算法对比
 
-![SortCompare](http://7xknpe.com1.z0.glb.clouddn.com/csortsortcomparepng.png) 
+![SortCompare](http://img.godjiyi.cn/csortsortcomparepng.png) 
 
 ## 快速排序
 

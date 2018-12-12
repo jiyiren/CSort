@@ -28,6 +28,22 @@ void insertsort(int array[],int startIndex,int endIndex){
   }
 }
 
+void insertsortA(int array[],int startIndex,int endIndex){
+  int i,j,item;
+  if(endIndex>startIndex){
+    for(j=startIndex+1;j<=endIndex;j++){
+      item=array[j];
+      i=j-1;
+      while(i>=startIndex&&item<array[i]&&i>=startIndex){
+        //i>=startIndex为防止i--越界
+        array[i+1]=array[i];//将比item大的数依次后移
+        i--;
+      }
+      array[i+1]=item;
+    }
+  }
+}
+
 int main(){
   int A[10]={12,1,2,23,99,3,25,77,8,4};
   insertsort(A,0,9);
